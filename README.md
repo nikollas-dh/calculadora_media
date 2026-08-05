@@ -49,12 +49,20 @@ Resultado:
 ![imagem](./imagens/image.png)
 ### Checklist
 - [X] Criar o Projeto Flutter
-- [ ] Criar o campo de nome
-- [ ] Criar os três campos de nota
-- [ ] Criar o botão calcular 
-- [ ] Calcular média
-- [ ] Verificar situação do aluno
-- [ ] Mostrar o resultado
-- [ ] Criar o botão limpar
-- [ ] Validar notas entre 0 e 10
-- [ ] Testar o aplicativo
+- [X] Criar o campo de nome
+- [X] Criar os três campos de nota
+- [X] Criar o botão calcular 
+- [X] Calcular média
+- [X] Verificar situação do aluno
+- [X] Mostrar o resultado
+- [X] Criar o botão limpar
+- [X] Validar notas entre 0 e 10
+- [X] Testar o aplicativo
+
+### Desafio
+
+- [X] Adicionar uma quarta nota
+- [X] Mostrar a maior nota
+- [ ] Mostrar a menor nota
+- [ ] Informar quantos pontos faltaram para a aprovação
+- [ ] Reprovar o aluno que tiver uma frequencia menor que 75%
